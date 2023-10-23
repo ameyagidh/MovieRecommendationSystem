@@ -2,6 +2,13 @@
 A content based movie recommender system using cosine similarity
 This project is a Movie Recommender System built using Streamlit and FastAPI. It provides personalized movie recommendations based on user preferences. To use the system, follow the instructions below.
 
+## Images
+<img width="1496" alt="Screenshot 2023-10-22 at 10 55 17 PM" src="https://github.com/ameyagidh/MovieRecommendationSystem/assets/65457905/58bb0a7a-b8ad-4629-96f8-744766cf8138">
+<img width="1496" alt="Screenshot 2023-10-22 at 10 55 36 PM" src="https://github.com/ameyagidh/MovieRecommendationSystem/assets/65457905/5baaedcf-ae7b-4cf1-b70e-16fd26c7ab6c">
+<img width="1496" alt="Screenshot 2023-10-22 at 10 55 43 PM" src="https://github.com/ameyagidh/MovieRecommendationSystem/assets/65457905/9ceae3e1-1e06-4bcf-96a3-d6671fd14929">
+<img width="1496" alt="Screenshot 2023-10-22 at 10 56 29 PM" src="https://github.com/ameyagidh/MovieRecommendationSystem/assets/65457905/bdbbefdf-3139-4985-acaf-f18120e5acfb">
+
+
 ## Instructions
 
 ### Step 1: Setup the Environment
